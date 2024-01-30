@@ -59,7 +59,7 @@ const Experience = () => {
               <FaNode className="experience__details-icon" />
               <div>
                 <h4>Node JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -67,7 +67,7 @@ const Experience = () => {
               <FaPython className="experience__details-icon" />
               <div>
                 <h4>Python</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
 
@@ -75,7 +75,7 @@ const Experience = () => {
               <FaJava className="experience__details-icon" />
               <div>
                 <h4>Java</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Intermediate</small>
               </div>
             </article>
           </div>
